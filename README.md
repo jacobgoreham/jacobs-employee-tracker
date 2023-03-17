@@ -24,8 +24,11 @@ To install this tracker for yourself simply clone this repo or copy and paste th
 
 ## [Usage](#table-of-contents)
 
-The use of this tracker is simple. After opening your terminal and starting the server.js, You'll be greeted with a list of options to select from. Add department, Add role, Add employee, View departments, View roles, View employees, Update employee role. Each of these options has their own prompts and tables assigned.
 
+https://user-images.githubusercontent.com/117858398/225817403-a6bbec8b-bba6-43b6-a86f-ac076e647960.mov
+
+
+The use of this tracker is simple. After opening your terminal and starting the server.js, You'll be greeted with a list of options to select from. Add department, Add role, Add employee, View departments, View roles, View employees, Update employee role. Each of these options has their own prompts and tables assigned.
 
 ## [License](#table-of-contents)
 
